@@ -7,10 +7,17 @@ blog:
   title: 'Blog'
   intro: "I'm showing the last 4 blog posts, but there might be more!"
 ---
-#### Welcome to Manchester Deaf Centre Social Portal
 
-<img src="pages/img/mdc-logo.jpg">
-
+<div class="header-container">
+  <div class="grid-item">
+    <span style="margin-top:8%; float:right;">
+    Welcome to
+    Manchester Deaf Centre's
+    Social Portal
+    </span>
+  </div>
+  <p><img src="pages/img/mdc-logo.jpg"></p>
+</div>
 
 <!-- Comprising:
 - This website including [my blog](https://www.thewalkingdeaf.net/blog) (top right)

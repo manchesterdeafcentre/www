@@ -49,5 +49,14 @@
   --color-bg-accent-2: color-mix(in oklab, var(--color-bg) 70%, var(--color-text));
 }
 
+.header-container {  display: grid;
+  grid-template-columns: 80% 19%;
+  grid-template-rows: 1fr;
+  grid-auto-rows: 1fr;
+  gap: 0px 15px;
+  grid-auto-flow: column;
+  grid-template-areas:
+    ". .";
+}
 
 
