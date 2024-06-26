@@ -1,0 +1,22 @@
+.logo {
+  --gutter: var(--space-xs);
+  padding: var(--space-xs) 0;
+  font-size: var(--size-step-0);
+  /* font-weight: var(--font-bold); */
+  color: ivory;
+  /* text-transform: uppercase; */
+  text-decoration: none;
+}
+
+@media (prefers-color-scheme: light) {
+  .logo.adaptive {
+    --gutter: var(--space-xs);
+    padding: var(--space-xs) 0;
+    font-size: var(--size-step-0);
+    /* font-weight: var(--font-bold); */
+    color: ivory;
+    /* text-transform: uppercase; */
+    text-decoration: none;
+  };
+}
+
