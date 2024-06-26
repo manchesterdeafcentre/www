@@ -10,13 +10,24 @@ blog:
 
 <div class="header-container">
   <div class="grid-item">
-    <span style="margin-top:8%; float:right;">
-    Welcome to
-    Manchester Deaf Centre's
-    Social Portal
-    </span>
+    <div>Welcome to Manchester Deaf Centre's Social Portal</div>
+    <div>Showcasing blogs, photo albums and videos</div>
   </div>
   <p><img src="pages/img/mdc-logo.jpg"></p>
+</div>
+
+<div class="team-container">
+  <p><img src="pages/img/mdc-logo.jpg"></p>
+  <div class="grid-item">
+    Children & Young People's Service (CYPS)
+  </div>
+</div>
+
+<div class="team-container">
+  <p><img src="pages/img/mdc-logo.jpg"></p>
+  <div class="grid-item">
+    WAITE (Wellbeing Group)
+  </div>
 </div>
 
 <!-- Comprising:

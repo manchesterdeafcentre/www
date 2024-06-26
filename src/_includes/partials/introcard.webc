@@ -1,0 +1,8 @@
+<custom-card>
+	{% image "pages/img/mdc-logo.jpg", "alt-text" %}
+	<span slot="date"></span>
+	<span slot="tag" class="button post-tag"></span>
+	<h2 slot="headline"></h2>
+	<p slot="content"></p>
+	<footer slot="footer"></footer>
+</custom-card>
